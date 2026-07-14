@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Training Platform",
+  "description": "A professional online IELTS preparation platform featuring multi-role access for Owners, Admins, and Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
